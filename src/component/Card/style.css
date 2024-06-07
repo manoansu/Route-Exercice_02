@@ -1,0 +1,9 @@
+.card {
+  
+    -color: var(--color-bg-primary);
+  columns: var(--color-font-primary);
+  border: 2px solid blue;
+  border-radius: 6px;
+  padding: 20px;
+  min-height: 200px;
+}
